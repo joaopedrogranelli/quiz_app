@@ -1,3 +1,4 @@
+//teste
 function toggleAnswer() {
     const answers = document.querySelector('.answers');
     const toggleButton = document.getElementById('toggle-answer');
